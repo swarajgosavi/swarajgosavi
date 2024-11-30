@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on Projects in Python
 - 📫 How to reach me Contact using LinkedIn
 
-<!---
-swarajgosavi/swarajgosavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ### Blogs
+
+- [How to deploy React app with client-side routing on GitHub Pages?](https://medium.com/@swarajgosavi20/how-to-deploy-react-app-with-client-side-routing-on-github-pages-8a3fefe5b0d5)
+- [How to Deploy React on GitHub Pages?](https://medium.com/@swarajgosavi20/how-to-deploy-react-on-github-pages-33e427f0bd36)
+- [Creating a Basic Virtual Network Using Azure](https://medium.com/@swarajgosavi20/creating-a-basic-virtual-network-using-azure-ef0f30f66cda)
